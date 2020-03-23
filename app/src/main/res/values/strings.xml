@@ -1,0 +1,145 @@
+<resources>
+    <string name="app_name">TravelApp</string>
+    <string name="gowtham_next_trip">Hey, Gowtham </string>
+    <string name="what_is_your_next_trip">What is your next trip?</string>
+    <string name="from">From</string>
+    <string name="bangalore">Bangalore</string>
+    <string name="to">To</string>
+    <string name="chennal">Chennal</string>
+    <string name="choose_your_trip_date">Choose Your trip date</string>
+    <string name="how_many_seats_you_want">How many seats you want?</string>
+    <string name="seat_one">1 seat</string>
+    <string name="_2_seat">2 seat</string>
+    <string name="_3_seat">3 seat</string>
+    <string name="_4_seat">4 seat</string>
+    <string name="_5_seat">5 seat</string>
+    <string name="_6_seat">6 seat</string>
+    <string name="_7_seat">7 seat</string>
+    <string name="_8_seat">8 seat</string>
+    <string name="_10_seat">10 seat</string>
+    <string name="_9_seat">9 seat</string>
+    <string name="choose_your_comfort">Choose your comfort!</string>
+    <string name="ac_bus">AC Bus</string>
+    <string name="non_ac">Non-AC</string>
+    <string name="sleeper">Sleeper</string>
+    <string name="find_your_bus">find your bus</string>
+    <string name="choose_your_bus">Choose your bus</string>
+    <string name="kallada_transports">Kallada Transports</string>
+    <string name="flight_value">4.2</string>
+    <string name="twenty_dollars">$ 20</string>
+    <string name="_9_00_chennal">8.00 Chennal</string>
+    <string name="_7_30_bangalore">7:30 Bangalore</string>
+    <string name="book">Book</string>
+    <string name="kpn_transports">KPN Transports</string>
+    <string name="eighteen_dollars">$ 18</string>
+    <string name="_8_00_chennal">8:00 Chennal</string>
+    <string name="srm_transports">SRM Transports</string>
+    <string name="_8_00_coimbatore">9:00 Coimbatore</string>
+    <string name="twenty_three_dollars">$ 23</string>
+    <string name="choose_trip_date">Choose trip date</string>
+    <string name="set_date">Set Date</string>
+
+
+    <string name="action_refresh">Refresh</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_map">Map Location</string>
+    <!-- Used to share the weather forecast on a given day from the DetailActivity -->
+    <string name="action_share">Share</string>
+
+
+    <string name="title_activity_login_page">Sign in</string>
+    <string name="SpinnerHeader">Lines</string>
+
+    <array name="options">
+        <item>--Select--</item>
+        <item>Details</item>
+        <item>Book Ticket</item>
+        <item>View Ticket</item>
+        <item>Add Balance</item>
+        <item>Logout</item>
+    </array>
+
+    <!--/////////////////////////////////-->
+    <string name="selectLine">--Select Line--</string>
+    <string name="selectStation">--Select Station--</string>
+    <!--/////////////////////////////-->
+
+    <array name="lineType">
+        <item>--Select--</item>
+        <item>KPN Transport</item>
+        <item>Kallada Transports</item>
+        <item>SRM Transports</item>
+    </array>
+    <array name="Stations">
+        <item>--Select--</item>
+        <item>Ikeja</item>
+        <item>Banglore</item>
+        <item>Chennai</item>
+        <item>Calmbatore</item>
+        <item>Lagos</item>
+        <item>Uyo</item>
+        <item>Asaba</item>
+        <item>Port Harcourt</item>
+        <item>Abuja</item>
+        <!--<item>Alausa</item>-->
+        <!--<item>Itam</item>-->
+        <!--<item>Ikot Ekpene Road</item>-->
+        <!--<item>Okene</item>-->
+        <!--<item>Ojota</item>-->
+        <!--<item>Oron</item>-->
+    </array>
+    <!--///////////////////////////////////-->
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">Already registred! Login Me.</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Fullname</string>
+
+
+    <string name="pref_location_label">Location</string>
+
+
+    <!-- Key name for storing location in SharedPreferences -->
+    <string name="pref_location_key" translatable="false">location</string>
+
+    <!-- Default postal code for location preference -->
+    <string name="pref_location_default" translatable="false">Mountain View, CA 94043</string>
+    <string name="pref_enable_notifications_key" translatable="false">enable_notifications</string>
+
+    <string name="pref_enable_notifications_true">Enabled</string>
+    <string name="pref_enable_notifications_false">Not Enabled</string>
+
+    <string name="pref_last_notification">last_notification</string>
+    <!-- Label for metric option in temperature unit preference -->
+    <string name="pref_units_label_metric">Metric</string>
+    <!-- Key name for temperature unit preference in SharedPreferences -->
+    <string name="pref_units_key" translatable="false">units</string>
+
+    <!-- Value in SharedPreferences for metric temperature unit option -->
+    <string name="pref_units_metric" translatable="false">metric</string>
+    <!-- Label for imperial option in temperature unit preference -->
+    <string name="pref_units_label_imperial">Imperial</string>
+    <!-- Label for the temperature units preference -->
+    <string name="pref_units_label">Temperature Units</string>
+    <string name="pref_enable_notifications_label">Travel Notifications</string>
+
+    <!-- Value in SharedPreferences for imperial temperature unit option -->
+    <string name="pref_units_imperial" translatable="false">imperial</string>
+    <string name="age">Age</string>
+    <string name="mobile_no">Mobile No</string>
+    <string name="card_no">Card No</string>
+    <string name="register">Register</string>
+    <string name="address">Address</string>
+    <string name="password">Password</string>
+    <string name="registration_name">Name</string>
+    <string name="user_id">User Id</string>
+    <string name="registeration">Registeration</string>
+    <string name="local_bus_ticketing_system">Local Bus Ticketing System</string>
+
+
+</resources>
